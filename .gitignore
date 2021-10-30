@@ -8,8 +8,8 @@ coverage
 .DS_Store
 
 # dotenv environment variables file
-!.env
-!.env.test
+.env
+.env.test
 
 # Optional eslint cache
 .eslintcache
