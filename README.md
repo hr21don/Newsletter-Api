@@ -7,4 +7,5 @@ An End-to-End application, managed from development through to live deployment.
 * The app is hosted on Heroku.
 
 
- 
+## How to use?
+ Sign up to our newsletter! (if you want) || https://serene-ridge-36936.herokuapp.com/ 
